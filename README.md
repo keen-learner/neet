@@ -35,6 +35,11 @@
 | 08  | 271      | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |          | Paid                     |                  |
 | 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |          |                          |                  |
  
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 02. Partition, 2 Pointers
 
@@ -46,6 +51,11 @@
 | 04  | 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)               |          |       |                  |
 | 05  | 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                           |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 03. Binary Search
 
@@ -59,6 +69,11 @@
 | 06  | 981      | [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |          |        |                  |
 | 07  | 4        | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                   |          | 💥💥💥 |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 04. Sliding Window
 
@@ -71,6 +86,11 @@
 | 05  | 76       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             |          |       |                  |
 | 06  | 239      | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                                 |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 05. Intervals
 
@@ -83,6 +103,11 @@
 | 05  | 253      | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                             |          | Paid  |                  |
 | 06  | 1851     | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 06. Stack
 
@@ -96,6 +121,11 @@
 | 06  | 853      | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                               |          |       |                  |
 | 07  | 84       | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)     |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 07. LinkedList
 
@@ -113,6 +143,11 @@
 | 10  | 23       | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |          |       |                  |
 | 11  | 25       | [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                 |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 08. Trees
 
@@ -134,6 +169,11 @@
 | 14  | 124      | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           |  |       |                  |
 | 15  | 297      | [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         |  |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 09. Tries
 
@@ -143,6 +183,11 @@
 | 02  | 211      | [Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |          |       |                  |
 | 03  | 212      | [Word Search II](https://leetcode.com/problems/word-search-ii/)                                                         |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 10. Backtracking
 
@@ -158,6 +203,11 @@
 | 08  | 17       | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |          |       |                  |
 | 09  | 51       | [N Queens](https://leetcode.com/problems/n-queens/)                                                           |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 11. Heap, Priority Queue
 
@@ -171,6 +221,11 @@
 | 06  | 355      | [Design Twitter](https://leetcode.com/problems/design-twitter/)                                   |          |       |                  |
 | 07  | 295      | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)       |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 12. Graphs
 
@@ -190,6 +245,11 @@
 | 12  | 261      | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                           |          | Paid  |                  |
 | 13  | 127      | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                     |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 13. 1D Dynamic Programming
 
@@ -208,6 +268,12 @@
 | 11  | 300      | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |          |       |                  |
 | 12  | 416      | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)         |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## 14. Greedy
 
 | SNo | Problem# | Problem                                                                                                       | Solution | Notes | Similar Problems |
@@ -221,6 +287,11 @@
 | 07  | 763      | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                           |          |       |                  |
 | 08  | 678      | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)                           |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 15. Advanced Graphs
 
@@ -233,6 +304,11 @@
 | 05  | 269      | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                               |          | Paid  |                  |
 | 06  | 787      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 16. 2D Dynamic Programming
 
@@ -250,6 +326,11 @@
 | 10  | 312      | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)                                                               |          |       |                  |
 | 11  | 10       | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                     |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 17. Bit Manipulation
 
@@ -263,6 +344,12 @@
 | 06  | 371      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |          |       |                  |
 | 07  | 7        | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)         |          |       |                  |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## 18. Math & Geometry
 
 | SNo | Problem# | Problem                                                               | Solution | Notes | Similar Problems |
@@ -275,3 +362,9 @@
 | 06  | 50       | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                    |          |       |                  |
 | 07  | 43       | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)   |          |       |                  |
 | 08  | 2013     | [Detect Squares](https://leetcode.com/problems/detect-squares/)       |          |       |                  |
+
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
