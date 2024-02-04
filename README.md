@@ -1,7 +1,7 @@
 # Algo Problem Solutions (Count = 150)
 
 # Index
-  01. [Arrays & Hashing (Count = 9)](#01-arrays-hashing) 
+  01. [Arrays & Hashing (Count = 9)](#01-arrays--hashing) 
   02. [Partition, 2 Pointers (Count = 5)](#02-partition-2-pointers) 
   03. [Binary Search (Count = 7)](#03-binary-search) 
   04. [Sliding Window (Count = 6)](#04-sliding-window) 
@@ -18,7 +18,7 @@
   15. [Advanced Graphs (Count = 6)](#15-advanced-graphs)
   16. [2d Dynamic Programming (Count = 11)](#16-2d-dynamic-programming) 
   17. [Bit Manipulation (Count = 7)](#17-bit-manipulation) 
-  18. [Math & Geometry (Count = 8)](#18-math-geometry) 
+  18. [Math & Geometry (Count = 8)](#18-math--geometry) 
 
 
 ## 01. Arrays & Hashing
@@ -116,8 +116,8 @@
 
 ## 08. Trees
 
-| SNo | Problem# | Problem                                                                                                                                               |  | Notes | Similar Problems |
-| --- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |  | ----- | ---------------- |
+| SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
+| --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 226      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               |  |       |                  |
 | 02  | 104      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           |  |       |                  |
 | 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                     |  |       |                  |
