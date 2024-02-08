@@ -25,9 +25,9 @@
 
 | SNo | Problem# | Problem                                                                                     | Solution | Notes                    | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------- | -------- | ------------------------ | ---------------- |
-| 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    |          | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
-| 02  | 242      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               |          | ⭐⭐⭐<br>sorting, map      | 49,266,438       |
-| 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |          |                          |                  |
+| 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        | [C++](./c++/217-ContainsDuplicate.cpp)         | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
+| 02  | 242      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)        | [C++](./c++/242-ValidAnagram.cpp)         | ⭐⭐⭐<br>sorting, map      | 49,266,438       |
+| 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
 | 04  | 49       | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |          |                          |                  |
 | 05  | 347      | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |          |                          |                  |
 | 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |          |                          |                  |
@@ -45,9 +45,9 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 125      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                 |          |       |                  |
-| 02  | 167      | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |          |       |                  |
-| 03  | 15       | [3Sum](https://leetcode.com/problems/3sum/)                                                         |          |       |                  |
+| 01  | 125      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          | [C++](./c++/125-ValidPalindrome.cpp)         |       |                  |
+| 02  | 167      | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./c++/167-TwoSumIIInputArrayIsSorted.cpp)    |       |                  |
+| 03  | 15       | [3Sum](https://leetcode.com/problems/3sum/)    | [C++](./c++/15-3Sum.cpp)         |       |                  |
 | 04  | 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)               |          |       |                  |
 | 05  | 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                           |          |       |                  |
 
@@ -80,7 +80,7 @@
 | SNo | Problem# | Problem                                                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 121      | [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               |          |       |                  |
-| 02  | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |          |       |                  |
+| 02  | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |     [C++](./c++/3-LongestSubstringWithoutRepeatingCharacters.cpp)     |       |                  |
 | 03  | 424      | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               |          |       |                  |
 | 04  | 567      | [Permutation In String](https://leetcode.com/problems/permutation-in-string/)                                                   |          |       |                  |
 | 05  | 76       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             |          |       |                  |
@@ -131,13 +131,13 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 206      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                           |          |       |                  |
+| 01  | 206      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      | [C++](./c++/206-ReverseLinkedList.cpp)         |       |                  |
 | 02  | 21       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     |          |       |                  |
 | 03  | 143      | [Reorder List](https://leetcode.com/problems/reorder-list/)                                         |          |       |                  |
 | 04  | 19       | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |          |       |                  |
 | 05  | 138      | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)       |          |       |                  |
 | 06  | 2        | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                   |          |       |                  |
-| 07  | 141      | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                               |          |       |                  |
+| 07  | 141      | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)       |[C++](./c++/141-LinkedListCycle.cpp)      |       |                  |
 | 08  | 287      | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)               |          |       |                  |
 | 09  | 146      | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                               |          |       |                  |
 | 10  | 23       | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         |          |       |                  |
@@ -157,13 +157,13 @@
 | 02  | 104      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           |  |       |                  |
 | 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                     |  |       |                  |
 | 04  | 110      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           |  |       |                  |
-| 05  | 100      | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                 |  | ⭐⭐⭐   | 314,1644,1676    |
+| 05  | 100      | [Same Tree](https://leetcode.com/problems/same-tree/)    | [C++](./c++/100-SameTree.cpp) | ⭐⭐⭐   | 314,1644,1676    |
 | 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     |  |       |                  |
 | 07  | 235      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                       |  |       |                  |
 | 08  | 102      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 |  |       |                  |
 | 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                             |  |       |                  |
 | 10  | 1448     | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                     |  |       |                  |
-| 11  | 98       | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             |  |       |                  |
+| 11  | 98       | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)    | [C++](./.c++/98-ValidateBinarySearchTree.cpp) |       |                  |
 | 12  | 230      | [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         |  |       |                  |
 | 13  | 105      | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |       |                  |
 | 14  | 124      | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           |  |       |                  |
