@@ -96,9 +96,9 @@
 
 | SNo | Problem# | Problem                                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 57       | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                               |          |       |                  |
-| 02  | 56       | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                               |          |       |                  |
-| 03  | 435      | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                           |          |       |                  |
+| 01  | 57       | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | [C++](./c++/57-InsertInterval.cpp)  |       |              |
+| 02  | 56       | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  | [C++](./c++/56-MergeIntervals.cpp) |       |                  |
+| 03  | 435      | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)    | [C++](./c++/435-NonOverlappingIntervals.cpp)         |       |                  |
 | 04  | 252      | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                   |          | Paid  |                  |
 | 05  | 253      | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                             |          | Paid  |                  |
 | 06  | 1851     | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) |          |       |                  |
@@ -161,7 +161,7 @@
 | 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                                                     |  |       |                  |
 | 07  | 235      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                       |  |       |                  |
 | 08  | 102      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./c++/102-BinaryTreeLevelOrderTraversal.cpp)       |                  |
-| 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  |[C++](./c++/199-BinaryTreeRightSideView.cpp)  |   💥💥💥<br> see df approach    | 116, 545 |
+| 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  |[C++](./c++/199-BinaryTreeRightSideView.cpp)  |   💥💥💥<br> see dfs approach    | 116, 545 |
 | 10  | 1448     | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                     |  |       |                  |
 | 11  | 98       | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)    | [C++](./.c++/98-ValidateBinarySearchTree.cpp) |       |                  |
 | 12  | 230      | [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         |  |       |                  |
