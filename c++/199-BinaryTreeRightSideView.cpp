@@ -53,3 +53,19 @@ public:
         return res; 
     }
 };
+
+class Solution1 {
+public:
+    vector<int> rightSideView(TreeNode* root) {
+        if(!root) return {};
+        vector<int> res;
+        helper(root, res, 0);
+        return res;
+    }
+    void helper(TreeNode* root, vector<int>& res, int l) {
+        if(!root) return;
+        if(l == res.size()) res.push_back(root->val);
+        helper(root->right, res, 1+l);
+        helper(root->left, res, 1+l);
+    }
+};
