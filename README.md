@@ -153,7 +153,7 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 226      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)      | [C++](./c++/226-InvertBinaryTree.cpp) |       |                  |
+| 01  | 226      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)      | [C++](./c++/226-InvertBinaryTree.cpp) | 💥💥💥<br> see stack approach  |  2415  |
 | 02  | 104      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |[C++](./c++/104-MaximumDepthOfBinaryTree.cpp)  |       |                  |
 | 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                     |  |       |                  |
 | 04  | 110      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)    | [C++](./c++/110-BalancedBinaryTree.cpp) |       |                  |
