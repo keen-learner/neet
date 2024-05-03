@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 21/150(112))
+# Algo Problem Solutions (Count = 22/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -338,7 +338,7 @@
 | --- | -------- | ------------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       |                  |
 | 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       |                  |
-| 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             |          |       |                  |
+| 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       |                  |
 | 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       |                  |
 | 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       |                  |
 | 06  | 371      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./c++/371-SumOfTwoIntegers.cpp) |       |                  |
