@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 22/150(112))
+# Algo Problem Solutions (Count = 23/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
