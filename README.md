@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 20/150(112))
+# Algo Problem Solutions (Count = 21/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -30,7 +30,7 @@
 | 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
 | 04  | 49       | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             | [C++](./c++/49-GroupAnagrams.cpp) |                          |                  |
 | 05  | 347      | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | [C++](./c++/347-TopKFrequentElements.cpp) |                          |                  |
-| 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |                          |                  |
+| 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     |                  |
 | 07  | 36       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | [C++](./c++/36-ValidSudoku.cpp)   |                          |                  |
 | 08  | 271      | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |          | Paid                     |                  |
 | 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |                          |  300 |
