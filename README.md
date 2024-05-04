@@ -30,7 +30,7 @@
 | 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
 | 04  | 49       | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             | [C++](./c++/49-GroupAnagrams.cpp) |                          |                  |
 | 05  | 347      | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | [C++](./c++/347-TopKFrequentElements.cpp) |                          |                  |
-| 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     |                  |
+| 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     | 42, 152, 265, 2163, 2906 |
 | 07  | 36       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | [C++](./c++/36-ValidSudoku.cpp)   |                          |                  |
 | 08  | 271      | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |          | Paid                     |                  |
 | 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |                          |  300 |
@@ -337,9 +337,9 @@
 | SNo | Problem# | Problem                                                                   | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       |                  |
-| 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       |                  |
-| 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       |                  |
-| 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       |                  |
+| 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       | 190, 231, 401, 461, 693, 762 |
+| 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       | 191, 2859, 2917 |
+| 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       | 7, 191, 2119 |
 | 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       |                  |
 | 06  | 371      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./c++/371-SumOfTwoIntegers.cpp) |       |                  |
 | 07  | 7        | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)         | [C++](./c++/7-ReverseInteger.cpp) |       |                  |
