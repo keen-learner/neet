@@ -33,7 +33,7 @@
 | 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     | 42, 152, 265, 2163, 2906 |
 | 07  | 36       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | [C++](./c++/36-ValidSudoku.cpp)   |                          |                  |
 | 08  | 271      | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |          | Paid                     |                  |
-| 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |                          |  300 |
+| 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |  | 298, 300, 2177, 2274, 2414, 3020 |
  
 <br/>
 <div align="right">
