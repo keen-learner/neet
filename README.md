@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 26/150(112))
+# Algo Problem Solutions (Count = 27/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -340,7 +340,7 @@
 | 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       | 190, 231, 401, 461, 693, 762 |
 | 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       | 191, 2859, 2917 |
 | 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       | 7, 191, 2119 |
-| 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       |                  |
+| 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       | 41, 136, 287, 765, 1980 |
 | 06  | 371      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./c++/371-SumOfTwoIntegers.cpp) |       |                  |
 | 07  | 7        | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)         | [C++](./c++/7-ReverseInteger.cpp) |       |                  |
 
