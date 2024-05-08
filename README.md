@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 27/150(112))
+# Algo Problem Solutions (Count = 28/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -336,7 +336,7 @@
 
 | SNo | Problem# | Problem                                                                   | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       |                  |
+| 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       | 137,260,268,287,389 |
 | 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       | 190, 231, 401, 461, 693, 762 |
 | 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       | 191, 2859, 2917 |
 | 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       | 7, 191, 2119 |
