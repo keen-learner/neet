@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 29/150(112))
+# Algo Problem Solutions (Count = 30/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -79,7 +79,7 @@
 
 | SNo | Problem# | Problem                                                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 121      | [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [C++](./c++/121-BestTimeToBuyAndSellStock.cpp)         |       |                  |
+| 01  | 121      | [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [C++](./c++/121-BestTimeToBuyAndSellStock.cpp)         |       | 53,122,123,188,309,2012,2016,2291 |
 | 02  | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./c++/3-LongestSubstringWithoutRepeatingCharacters.cpp)     |       |                  |
 | 03  | 424      | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  | [C++](./c++/424-LongestRepeatingCharacterReplacement.cpp) |       |                  |
 | 04  | 567      | [Permutation In String](https://leetcode.com/problems/permutation-in-string/)     | [C++](./c++/567-PermutationInString.cpp) |       |                  |
