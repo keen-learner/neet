@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 31/150(112))
+# Algo Problem Solutions (Count = 32/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -61,7 +61,7 @@
 
 | SNo | Problem# | Problem                                                                                                     | Solution | Notes  | Similar Problems |
 | --- | -------- | ----------------------------------------------------------------------------------------------------------- | -------- | ------ | ---------------- |
-| 01  | 704      | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./c++/704-BinarySearch.cpp)  |        |                  |
+| 01  | 704      | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./c++/704-BinarySearch.cpp)  |        | 702,2529 |
 | 02  | 74       | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | [C++](./c++/74-SearchA2dMatrix.cpp)   |        |                  |
 | 03  | 875      | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                   |          |        |                  |
 | 04  | 153      | [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./c++/153-FindMinimumInRotatedSortedArray.cpp) |        |                  |
