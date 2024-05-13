@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 33/150(112))
+# Algo Problem Solutions (Count = 34/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -357,7 +357,7 @@
 | 01  | 48       | [Rotate Image](https://leetcode.com/problems/rotate-image/)           | [C++](./c++/48-RotateImage.cpp) |       |                  |
 | 02  | 54       | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)         | [C++](./c++/54-SpiralMatrix.cpp) |       |                  |
 | 03  | 73       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./c++/73-SetMatrixZeroes.cpp) |       | 289, 2123, 2125, 2128 |
-| 04  | 202      | [Happy Number](https://leetcode.com/problems/happy-number/)           | [C++](./c++/202-HappyNumber.cpp)     |       |                  |
+| 04  | 202      | [Happy Number](https://leetcode.com/problems/happy-number/)           | [C++](./c++/202-HappyNumber.cpp)     |       | 141,258, 263,1945,2457,2507, 2520,746  |
 | 05  | 66       | [Plus One](https://leetcode.com/problems/plus-one/)                   | [C++](./c++/66-PlusOne.cpp) |       | 43,67,369,989,2571  |
 | 06  | 50       | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                    |          |       |                  |
 | 07  | 43       | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | [C++](./c++/43-MultiplyStrings.cpp) |       |                  |
