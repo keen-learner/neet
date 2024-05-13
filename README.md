@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 34/150(112))
+# Algo Problem Solutions (Count = 35/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -158,7 +158,7 @@
 | 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C++](./c++/543-DiameterOfBinaryTree.cpp) |       |                  |
 | 04  | 110      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)    | [C++](./c++/110-BalancedBinaryTree.cpp) |       |                  |
 | 05  | 100      | [Same Tree](https://leetcode.com/problems/same-tree/)    | [C++](./c++/100-SameTree.cpp) | ⭐⭐⭐ | 314,1644,1676    |
-| 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | [C++](./c++/572-SubtreeOfAnotherTree.cpp)|       |                  |
+| 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | [C++](./c++/572-SubtreeOfAnotherTree.cpp)|       | 250,508  |
 | 07  | 235      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./c++/235-LowestCommonAncestorOfABinarySearchTree.cpp) |       |                  |
 | 08  | 102      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./c++/102-BinaryTreeLevelOrderTraversal.cpp)       |                  |
 | 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  |[C++](./c++/199-BinaryTreeRightSideView.cpp)  |   💥💥💥<br> see dfs approach    | 116, 545 |
