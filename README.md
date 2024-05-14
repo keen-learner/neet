@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 35/150(112))
+# Algo Problem Solutions (Count = 36/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -256,7 +256,7 @@
 | SNo | Problem# | Problem                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | ----------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 70       | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               | [C++](./c++/70-ClimbingStairs.cpp) |       | 746,509,1137,2244,2320,2400,2466,2498 |
-| 02  | 746      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)             |          |       |                  |
+| 02  | 746      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)     | [C++](./c++/746-MinCostClimbingStairs.cpp)         |       | 70 |
 | 03  | 198      | [House Robber](https://leetcode.com/problems/house-robber/)                                     | [C++](./c++/198-HouseRobber.cpp)        |       |                  |
 | 04  | 213      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                               |          |       |                  |
 | 05  | 5        | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | [C++](./c++/5-LongestPalindromicSubstring.cpp) |       |                  |
