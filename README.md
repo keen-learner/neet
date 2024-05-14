@@ -25,15 +25,15 @@
 
 | SNo | Problem# | Problem                                                                                     | Solution | Notes                    | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------- | -------- | ------------------------ | ---------------- |
-| 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        | [C++](./c++/217-ContainsDuplicate.cpp)         | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
-| 02  | 242      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)        | [C++](./c++/242-ValidAnagram.cpp)         | ⭐⭐⭐<br>sorting, map      | 49,266,438       |
-| 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
+| ✅ 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        | [C++](./c++/217-ContainsDuplicate.cpp)         | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
+| ✅ 02  | 242      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)        | [C++](./c++/242-ValidAnagram.cpp)         | ⭐⭐⭐<br>sorting, map      | 49,266,438       |
+| ✅ 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
 | 04  | 49       | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             | [C++](./c++/49-GroupAnagrams.cpp) |                          |                  |
 | 05  | 347      | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | [C++](./c++/347-TopKFrequentElements.cpp) |                          |                  |
-| 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     | 42, 152, 265, 2163, 2906 |
+| ✅ 06  | 238      | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./c++/238-ProductOfArrayExceptSelf.cpp) |   ⭐⭐⭐     | 42, 152, 265, 2163, 2906 |
 | 07  | 36       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | [C++](./c++/36-ValidSudoku.cpp)   |                          |                  |
 | 08  | 271      | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       |          | Paid                     |                  |
-| 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |  | 298, 300, 2177, 2274, 2414, 3020 |
+| ✅ 09  | 128      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./c++/128-LongestConsecutiveSequence.cpp)  |  | 298, 300, 2177, 2274, 2414, 3020 |
  
 <br/>
 <div align="right">
@@ -45,9 +45,9 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 125      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          | [C++](./c++/125-ValidPalindrome.cpp)         |       |                  |
-| 02  | 167      | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./c++/167-TwoSumIIInputArrayIsSorted.cpp)    |       |                  |
-| 03  | 15       | [3Sum](https://leetcode.com/problems/3sum/)    | [C++](./c++/15-3Sum.cpp)         |       |                  |
+| ✅ 01  | 125      | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)          | [C++](./c++/125-ValidPalindrome.cpp)         |       |                  |
+| ✅ 02  | 167      | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./c++/167-TwoSumIIInputArrayIsSorted.cpp)    |       |                  |
+| ✅ 03  | 15       | [3Sum](https://leetcode.com/problems/3sum/)    | [C++](./c++/15-3Sum.cpp)         |       |                  |
 | 04  | 11       | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [C++](./c++/11-ContainerWithMostWater.cpp) |       |                  |
 | 05  | 42       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./c++/42-TrappingRainWater.cpp)         |       |                  |
 
@@ -61,7 +61,7 @@
 
 | SNo | Problem# | Problem                                                                                                     | Solution | Notes  | Similar Problems |
 | --- | -------- | ----------------------------------------------------------------------------------------------------------- | -------- | ------ | ---------------- |
-| 01  | 704      | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./c++/704-BinarySearch.cpp)  |        | 702,2529 |
+| ✅ 01  | 704      | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./c++/704-BinarySearch.cpp)  |        | 702,2529 |
 | 02  | 74       | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | [C++](./c++/74-SearchA2dMatrix.cpp)   |        |                  |
 | 03  | 875      | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                   |          |        |                  |
 | 04  | 153      | [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./c++/153-FindMinimumInRotatedSortedArray.cpp) |        |                  |
@@ -79,8 +79,8 @@
 
 | SNo | Problem# | Problem                                                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 121      | [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [C++](./c++/121-BestTimeToBuyAndSellStock.cpp)         |       | 53,122,123,188,309,2012,2016,2291 |
-| 02  | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./c++/3-LongestSubstringWithoutRepeatingCharacters.cpp)     |       | 159,340,992,1695,2067,2260,2401,2405,2799,2981, 2982 |
+| ✅ 01  | 121      | [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [C++](./c++/121-BestTimeToBuyAndSellStock.cpp)         |       | 53,122,123,188,309,2012,2016,2291 |
+| ✅ 02  | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./c++/3-LongestSubstringWithoutRepeatingCharacters.cpp)     |       | 159,340,992,1695,2067,2260,2401,2405,2799,2981, 2982 |
 | 03  | 424      | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  | [C++](./c++/424-LongestRepeatingCharacterReplacement.cpp) |       |                  |
 | 04  | 567      | [Permutation In String](https://leetcode.com/problems/permutation-in-string/)     | [C++](./c++/567-PermutationInString.cpp) |       |                  |
 | 05  | 76       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)   | [C++](./c++/76-MinimumWindowSubstring.cpp)  |       |                  |
@@ -131,13 +131,13 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 206      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      | [C++](./c++/206-ReverseLinkedList.cpp)         |       |                  |
+| ✅ 01  | 206      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)      | [C++](./c++/206-ReverseLinkedList.cpp)         |       |                  |
 | 02  | 21       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)    | [C++](./c++/21-MergeTwoSortedLists.cpp) |       |                  |
 | 03  | 143      | [Reorder List](https://leetcode.com/problems/reorder-list/)     | [C++](./c++/143-ReorderList.cpp)  |       |                  |
-| 04  | 19       | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./c++/19-RemoveNthNodeFromEndOfList.cpp) |       |                  |
+| ✅ 04  | 19       | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./c++/19-RemoveNthNodeFromEndOfList.cpp) |       |                  |
 | 05  | 138      | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)       | [C++](./c++/138-CopyListWithRandomPointer.cpp) |       |                  |
 | 06  | 2        | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)    | [C++](./c++/2-AddTwoNumbers.cpp)  |       |                  |
-| 07  | 141      | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)       |[C++](./c++/141-LinkedListCycle.cpp)      |       |                  |
+| ✅ 07  | 141      | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)       |[C++](./c++/141-LinkedListCycle.cpp)      |       |                  |
 | 08  | 287      | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)     | [C++](./c++/287-FindTheDuplicateNumber.cpp) |       |                  |
 | 09  | 146      | [LRU Cache](https://leetcode.com/problems/lru-cache/)    | [C++](./c++/146-LRUCache.cpp) |       |                  |
 | 10  | 23       | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)   | [C++](./c++/23-MergeKSortedLists.cpp)  |       |                  |
@@ -153,20 +153,20 @@
 
 | SNo | Problem# | Problem                                                                                             | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 226      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)      | [C++](./c++/226-InvertBinaryTree.cpp) | 💥💥💥<br> see stack approach  |  2415  |
-| 02  | 104      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |[C++](./c++/104-MaximumDepthOfBinaryTree.cpp)  |       |                  |
-| 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C++](./c++/543-DiameterOfBinaryTree.cpp) |       |                  |
-| 04  | 110      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)    | [C++](./c++/110-BalancedBinaryTree.cpp) |       |                  |
-| 05  | 100      | [Same Tree](https://leetcode.com/problems/same-tree/)    | [C++](./c++/100-SameTree.cpp) | ⭐⭐⭐ | 314,1644,1676    |
-| 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | [C++](./c++/572-SubtreeOfAnotherTree.cpp)|       | 250,508  |
-| 07  | 235      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./c++/235-LowestCommonAncestorOfABinarySearchTree.cpp) |       |                  |
-| 08  | 102      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./c++/102-BinaryTreeLevelOrderTraversal.cpp)       |                  |
-| 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  |[C++](./c++/199-BinaryTreeRightSideView.cpp)  |   💥💥💥<br> see dfs approach    | 116, 545 |
+| ✅ 01  | 226      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)      | [C++](./c++/226-InvertBinaryTree.cpp) | 💥💥💥<br> see stack approach  |  2415  |
+| ✅ 02  | 104      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    |[C++](./c++/104-MaximumDepthOfBinaryTree.cpp)  |       |                  |
+| ✅ 03  | 543      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C++](./c++/543-DiameterOfBinaryTree.cpp) |       |                  |
+| ✅ 04  | 110      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)    | [C++](./c++/110-BalancedBinaryTree.cpp) |       |                  |
+| ✅ 05  | 100      | [Same Tree](https://leetcode.com/problems/same-tree/)    | [C++](./c++/100-SameTree.cpp) | ⭐⭐⭐ | 314,1644,1676    |
+| ✅ 06  | 572      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | [C++](./c++/572-SubtreeOfAnotherTree.cpp)|       | 250,508  |
+| ✅ 07  | 235      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./c++/235-LowestCommonAncestorOfABinarySearchTree.cpp) |       |                  |
+| ✅ 08  | 102      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./c++/102-BinaryTreeLevelOrderTraversal.cpp)       |                  |
+| ✅ 09  | 199      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  |[C++](./c++/199-BinaryTreeRightSideView.cpp)  |   💥💥💥<br> see dfs approach    | 116, 545 |
 | 10  | 1448     | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                     |  |       |                  |
-| 11  | 98       | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)    | [C++](./c++/98-ValidateBinarySearchTree.cpp) |       |                  |
-| 12  | 230      | [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)   | [C++](./c++/230-KthSmallestElementInABST.cpp)  |       |                  |
+| ✅ 11  | 98       | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)    | [C++](./c++/98-ValidateBinarySearchTree.cpp) |       |                  |
+| ✅ 12  | 230      | [Kth Smallest Element In a Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)   | [C++](./c++/230-KthSmallestElementInABST.cpp)  |       |                  |
 | 13  | 105      | [Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./c++/105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |       |                  |
-| 14  | 124      | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)   |[C++](./c++/124-BinaryTreeMaximumPathSum.cpp) |       |                  |
+| ✅ 14  | 124      | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)   |[C++](./c++/124-BinaryTreeMaximumPathSum.cpp) |       |                  |
 | 15  | 297      | [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./c++/297-SerializeAndDeserializeBinaryTree.cpp) |       |                  |
 
 <br/>
@@ -255,8 +255,8 @@
 
 | SNo | Problem# | Problem                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | ----------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 70       | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               | [C++](./c++/70-ClimbingStairs.cpp) |       | 746,509,1137,2244,2320,2400,2466,2498 |
-| 02  | 746      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)     | [C++](./c++/746-MinCostClimbingStairs.cpp)         |       | 70 |
+| ✅ 01  | 70       | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               | [C++](./c++/70-ClimbingStairs.cpp) |       | 746,509,1137,2244,2320,2400,2466,2498 |
+| ✅ 02  | 746      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)     | [C++](./c++/746-MinCostClimbingStairs.cpp)         |       | 70 |
 | 03  | 198      | [House Robber](https://leetcode.com/problems/house-robber/)                                     | [C++](./c++/198-HouseRobber.cpp)        |       |                  |
 | 04  | 213      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                               |          |       |                  |
 | 05  | 5        | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)   | [C++](./c++/5-LongestPalindromicSubstring.cpp) |       |                  |
@@ -336,11 +336,11 @@
 
 | SNo | Problem# | Problem                                                                   | Solution | Notes | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       | 137,260,268,287,389 |
-| 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       | 190, 231, 401, 461, 693, 762 |
-| 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       | 191, 2859, 2917 |
-| 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       | 7, 191, 2119 |
-| 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       | 41, 136, 287, 765, 1980 |
+| ✅ 01  | 136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C++](./c++/136-SingleNumber.cpp) |       | 137,260,268,287,389 |
+| ✅ 02  | 191      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [C++](./c++/191-NumberOf1Bits.cpp) |       | 190, 231, 401, 461, 693, 762 |
+| ✅ 03  | 338      | [Counting Bits](https://leetcode.com/problems/counting-bits/)             | [C++](./c++/338-CountingBits.cpp) |       | 191, 2859, 2917 |
+| ✅ 04  | 190      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [C++](./c++/190-ReverseBits.cpp) |       | 7, 191, 2119 |
+| ✅ 05  | 268      | [Missing Number](https://leetcode.com/problems/missing-number/)           | [C++](./c++/268-MissingNumber.cpp) |       | 41, 136, 287, 765, 1980 |
 | 06  | 371      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./c++/371-SumOfTwoIntegers.cpp) |       |                  |
 | 07  | 7        | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)         | [C++](./c++/7-ReverseInteger.cpp) |       |                  |
 
@@ -356,9 +356,9 @@
 | --- | -------- | --------------------------------------------------------------------- | -------- | ----- | ---------------- |
 | 01  | 48       | [Rotate Image](https://leetcode.com/problems/rotate-image/)           | [C++](./c++/48-RotateImage.cpp) |       |                  |
 | 02  | 54       | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)         | [C++](./c++/54-SpiralMatrix.cpp) |       |                  |
-| 03  | 73       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./c++/73-SetMatrixZeroes.cpp) |       | 289, 2123, 2125, 2128 |
-| 04  | 202      | [Happy Number](https://leetcode.com/problems/happy-number/)           | [C++](./c++/202-HappyNumber.cpp)     |       | 141,258, 263,1945,2457,2507, 2520,746  |
-| 05  | 66       | [Plus One](https://leetcode.com/problems/plus-one/)                   | [C++](./c++/66-PlusOne.cpp) |       | 43,67,369,989,2571  |
+| ✅ 03  | 73       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./c++/73-SetMatrixZeroes.cpp) |       | 289, 2123, 2125, 2128 |
+| ✅ 04  | 202      | [Happy Number](https://leetcode.com/problems/happy-number/)           | [C++](./c++/202-HappyNumber.cpp)     |       | 141,258, 263,1945,2457,2507, 2520,746  |
+| ✅ 05  | 66       | [Plus One](https://leetcode.com/problems/plus-one/)                   | [C++](./c++/66-PlusOne.cpp) |       | 43,67,369,989,2571  |
 | 06  | 50       | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                    |          |       |                  |
 | 07  | 43       | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | [C++](./c++/43-MultiplyStrings.cpp) |       |                  |
 | 08  | 2013     | [Detect Squares](https://leetcode.com/problems/detect-squares/)       |          |       |                  |
