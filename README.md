@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 37/150(112))
+# Algo Problem Solutions (Count = 38/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -96,7 +96,7 @@
 
 | SNo | Problem# | Problem                                                                                                         | Solution | Notes | Similar Problems |
 | --- | -------- | --------------------------------------------------------------------------------------------------------------- | -------- | ----- | ---------------- |
-| 01  | 57       | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | [C++](./c++/57-InsertInterval.cpp)  |       |              |
+| ✅ 01  | 57       | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | [C++](./c++/57-InsertInterval.cpp)  |       | 56,715,2276 |
 | ✅ 02  | 56       | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  | [C++](./c++/56-MergeIntervals.cpp) |       | 57,252,253,495,616,715,759,763,986,2158,2213,2276,2406,2446,2580,2848 |
 | 03  | 435      | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)    | [C++](./c++/435-NonOverlappingIntervals.cpp)         |       |                  |
 | 04  | 252      | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  | [C++](./c++/252-MeetingRooms.cpp) | Paid  |                  |
