@@ -1,4 +1,4 @@
-# Algo Problem Solutions (Count = 38/150(112))
+# Algo Problem Solutions (Count = 39/150(112))
 
 # Index
   01. [Arrays & Hashing (Count = 8/9)](#01-arrays--hashing) 
@@ -359,7 +359,7 @@
 | ✅ 03  | 73       | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./c++/73-SetMatrixZeroes.cpp) |       | 289, 2123, 2125, 2128 |
 | ✅ 04  | 202      | [Happy Number](https://leetcode.com/problems/happy-number/)           | [C++](./c++/202-HappyNumber.cpp)     |       | 141,258, 263,1945,2457,2507, 2520,746  |
 | ✅ 05  | 66       | [Plus One](https://leetcode.com/problems/plus-one/)                   | [C++](./c++/66-PlusOne.cpp) |       | 43,67,369,989,2571  |
-| 06  | 50       | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                    |          |       |                  |
+| ✅ 06 | 50       | [Pow(x, n)](https://leetcode.com/problems/powx-n/)       | [C++](./c++/50-Powx-n.cpp)         |       | 69,372,2550 |
 | 07  | 43       | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | [C++](./c++/43-MultiplyStrings.cpp) |       |                  |
 | 08  | 2013     | [Detect Squares](https://leetcode.com/problems/detect-squares/)       |          |       |                  |
 
