@@ -25,7 +25,7 @@
 
 | SNo | Problem# | Problem                                                                                     | Solution | Notes                    | Similar Problems |
 | --- | -------- | ------------------------------------------------------------------------------------------- | -------- | ------------------------ | ---------------- |
-| ✅ 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        | [C++](./c++/217-ContainsDuplicate.cpp)         | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
+| ✅ 01  | 217      | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)        | [C++](./c++/217-ContainsDuplicate.cpp)<br> [C#](./c-sharp/217-ContainsDuplicate.cs)        | ⭐⭐⭐<br>sorting, map, set | 219, 220, 2357   |
 | ✅ 02  | 242      | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)        | [C++](./c++/242-ValidAnagram.cpp)         | ⭐⭐⭐<br>sorting, map      | 49,266,438       |
 | ✅ 03  | 1        | [Two Sum](https://leetcode.com/problems/two-sum/)                                           |  [C++](./c++/1-TwoSum.cpp)        |                          |                  |
 | 04  | 49       | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             | [C++](./c++/49-GroupAnagrams.cpp) |                          |                  |
